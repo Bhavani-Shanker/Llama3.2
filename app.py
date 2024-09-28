@@ -2,7 +2,7 @@ import requests
 import json
 import streamlit as st
 
-url = "http://localhost:11434/api/generate"
+#url = "http://localhost:11434/api/generate"
 
 
 headers = {
